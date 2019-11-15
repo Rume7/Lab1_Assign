@@ -1,10 +1,10 @@
-package com.jerryassignment.taxcalculator;
+package com.assignment.calculator;
 
-import com.jerryassignment.status.HeadOfHouseholdIncomeTax;
-import com.jerryassignment.status.JointMarriedIncomeTax;
-import com.jerryassignment.status.PayableTax;
-import com.jerryassignment.status.SingleIncomeTax;
-import com.jerryassignment.status.SinglyMarriedIncomeTax;
+import com.assignment.status.HeadOfHouseholdIncomeTax;
+import com.assignment.status.JointMarriedIncomeTax;
+import com.assignment.status.PayableTax;
+import com.assignment.status.SingleIncomeTax;
+import com.assignment.status.SinglyMarriedIncomeTax;
 
 /**
  *

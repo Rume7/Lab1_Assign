@@ -1,4 +1,4 @@
-package com.jerryassignment.view;
+package com.assignment.view;
 
 import javax.swing.JOptionPane;
 

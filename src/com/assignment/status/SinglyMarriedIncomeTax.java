@@ -1,4 +1,4 @@
-package com.jerryassignment.status;
+package com.assignment.status;
 
 /**
  *
